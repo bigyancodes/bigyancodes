@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Bigyan Parajuli — Full-stack developer</title>
+  <desc id="desc">Animated dark developer banner with moving code brackets and a blue teal color palette.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14">
+        <animate attributeName="stop-color" values="#070B14;#0A1225;#070B14" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="0.55" stop-color="#0D1117" />
+      <stop offset="1" stop-color="#071A22">
+        <animate attributeName="stop-color" values="#071A22;#0B1730;#071A22" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" />
+      <stop offset="1" stop-color="#2DD4BF" />
+    </linearGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.07" />
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="nameReveal">
+      <rect x="270" y="88" width="0" height="78">
+        <animate attributeName="width" values="0;660;660" keyTimes="0;0.55;1" dur="2.4s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)" />
+  <rect width="1200" height="320" rx="24" fill="url(#grid)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0;36 36" dur="12s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="120" cy="58" r="120" fill="#1F6FEB" opacity="0.08" filter="url(#glow)">
+    <animate attributeName="r" values="105;135;105" dur="6s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1080" cy="268" r="135" fill="#2DD4BF" opacity="0.07" filter="url(#glow)">
+    <animate attributeName="r" values="135;110;135" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M205 105 L145 160 L205 215">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-12 0;0 0" dur="3.2s" repeatCount="indefinite" />
+    </path>
+    <path d="M995 105 L1055 160 L995 215">
+      <animateTransform attributeName="transform" type="translate" values="0 0;12 0;0 0" dur="3.2s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g clip-path="url(#nameReveal)">
+    <text x="600" y="146" fill="#F0F6FC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="5" text-anchor="middle">BIGYAN PARAJULI</text>
+  </g>
+
+  <rect x="398" y="170" width="404" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="0;404;404;0" keyTimes="0;0.25;0.85;1" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="x" values="600;398;398;600" keyTimes="0;0.25;0.85;1" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <g font-family="Consolas, JetBrains Mono, monospace" font-size="20" font-weight="600" text-anchor="middle">
+    <text x="600" y="211" fill="#58A6FF">FULL-STACK DEVELOPER
+      <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.26;0.32;0.92;0.98;1" dur="12s" repeatCount="indefinite" />
+    </text>
+    <text x="600" y="211" fill="#2DD4BF" opacity="0">NEXT.JS • REACT • TYPESCRIPT
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26;0.32;0.59;0.65;1" dur="12s" repeatCount="indefinite" />
+    </text>
+    <text x="600" y="211" fill="#A5B4FC" opacity="0">BUILDING • LEARNING • ITERATING
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.32;0.59;0.65;0.71;0.94;1" dur="12s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <g fill="#58A6FF">
+    <circle cx="330" cy="260" r="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite" /></circle>
+    <circle cx="360" cy="260" r="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.4s" repeatCount="indefinite" /></circle>
+    <circle cx="390" cy="260" r="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.8s" repeatCount="indefinite" /></circle>
+  </g>
+  <text x="420" y="267" fill="#8B949E" font-family="Consolas, JetBrains Mono, monospace" font-size="16">github.com/bigyancodes</text>
+
+  <path d="M92 286 H1108" stroke="url(#accent)" stroke-width="1.5" opacity="0.35" stroke-dasharray="12 18">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="5s" repeatCount="indefinite" />
+  </path>
+
+  <circle cx="0" cy="0" r="3" fill="#2DD4BF" filter="url(#glow)">
+    <animateMotion path="M110 72 C300 18 900 18 1090 72" dur="7s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
