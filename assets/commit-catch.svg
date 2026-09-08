@@ -420,6 +420,7 @@
     <rect x="786" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="800" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="800" y="158" width="10" height="10" rx="2.5" fill="#0EA5A8" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="4.19s" repeatCount="indefinite" /></rect>
+    <rect x="800" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
   </g>
 
   <g>
