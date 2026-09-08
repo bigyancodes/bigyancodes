@@ -1,4 +1,4 @@
-name: Refresh Commit Catch
+name: Refresh Contribution Art
 
 on:
   schedule:
@@ -17,21 +17,23 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v5
 
-      - name: Generate the original fishing animation
-        run: node scripts/generate-commit-catch.mjs
+      - name: Generate the original contribution animations
+        run: |
+          node scripts/generate-commit-catch.mjs
+          node scripts/generate-commit-odyssey.mjs
         env:
           GITHUB_USER: ${{ github.repository_owner }}
 
-      - name: Commit the refreshed animation
+      - name: Commit the refreshed animations
         shell: bash
         run: |
-          if git diff --quiet -- assets/commit-catch.svg; then
-            echo "Commit Catch is already up to date."
+          if git diff --quiet -- assets/commit-catch.svg assets/commit-odyssey.svg; then
+            echo "Contribution art is already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/commit-catch.svg
-          git commit -m "chore: refresh Commit Catch [skip ci]"
+          git add assets/commit-catch.svg assets/commit-odyssey.svg
+          git commit -m "chore: refresh contribution art [skip ci]"
           git push
