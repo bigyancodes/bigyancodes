@@ -68,12 +68,12 @@ I enjoy turning real problems into responsive web experiences—from healthcare 
   </tr>
 </table>
 
-## `./commit-catch`
+## `./commit-odyssey`
 
-An original fishing animation generated from my public GitHub contribution calendar—every glowing square is part of the real activity story.
+An original space journey generated from my public GitHub contribution calendar—every glowing star is part of the real activity story.
 
 <p align="center">
-  <img width="100%" src="./assets/commit-catch.svg" alt="Commit Catch — Bigyan's original animated fishing contribution visual" />
+  <img width="100%" src="./assets/commit-odyssey.svg" alt="Commit Odyssey — Bigyan's original animated contribution constellation" />
 </p>
 
 <p align="center">
