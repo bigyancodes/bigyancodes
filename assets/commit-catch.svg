@@ -189,27 +189,27 @@
     <rect x="324" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="338" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="338" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="338" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="338" y="172" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.58s" repeatCount="indefinite" /></rect>
     <rect x="338" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="338" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="338" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="338" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="352" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="352" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="352" y="172" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.66s" repeatCount="indefinite" /></rect>
+    <rect x="352" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="352" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="352" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="352" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="352" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="366" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="366" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="352" y="228" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.78s" repeatCount="indefinite" /></rect>
+    <rect x="366" y="144" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.68s" repeatCount="indefinite" /></rect>
+    <rect x="366" y="158" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.71s" repeatCount="indefinite" /></rect>
     <rect x="366" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="366" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="366" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="366" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="366" y="228" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.86s" repeatCount="indefinite" /></rect>
-    <rect x="380" y="144" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.76s" repeatCount="indefinite" /></rect>
-    <rect x="380" y="158" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.79s" repeatCount="indefinite" /></rect>
+    <rect x="366" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="380" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="380" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="380" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="380" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="380" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
@@ -218,31 +218,31 @@
     <rect x="394" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="394" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="394" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="394" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="394" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="394" y="186" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.93s" repeatCount="indefinite" /></rect>
+    <rect x="394" y="200" width="10" height="10" rx="2.5" fill="#115E78" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="1.96s" repeatCount="indefinite" /></rect>
     <rect x="394" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="394" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="408" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="408" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="408" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="408" y="186" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.01s" repeatCount="indefinite" /></rect>
-    <rect x="408" y="200" width="10" height="10" rx="2.5" fill="#115E78" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.04s" repeatCount="indefinite" /></rect>
+    <rect x="408" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="408" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="408" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="408" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="422" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="422" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="422" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="422" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="422" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="422" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="422" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="422" y="200" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.12s" repeatCount="indefinite" /></rect>
+    <rect x="422" y="214" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.15s" repeatCount="indefinite" /></rect>
+    <rect x="422" y="228" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.18s" repeatCount="indefinite" /></rect>
     <rect x="436" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="436" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="436" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="436" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="436" y="200" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.20s" repeatCount="indefinite" /></rect>
-    <rect x="436" y="214" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.23s" repeatCount="indefinite" /></rect>
-    <rect x="436" y="228" width="10" height="10" rx="2.5" fill="#0E3A5D" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.26s" repeatCount="indefinite" /></rect>
+    <rect x="436" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="436" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="436" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="450" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="450" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="450" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
@@ -255,14 +255,14 @@
     <rect x="464" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="464" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="464" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="464" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="464" y="214" width="10" height="10" rx="2.5" fill="#0EA5A8" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.39s" repeatCount="indefinite" /></rect>
     <rect x="464" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="478" y="214" width="10" height="10" rx="2.5" fill="#0EA5A8" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="2.47s" repeatCount="indefinite" /></rect>
+    <rect x="478" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="478" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="492" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="492" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
@@ -383,14 +383,14 @@
     <rect x="716" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="716" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="716" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="730" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="730" y="144" width="10" height="10" rx="2.5" fill="#45E6CD" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="3.76s" repeatCount="indefinite" /></rect>
     <rect x="730" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="730" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="730" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="730" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="730" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="730" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="744" y="144" width="10" height="10" rx="2.5" fill="#45E6CD" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="3.84s" repeatCount="indefinite" /></rect>
+    <rect x="744" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="744" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="744" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="744" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
@@ -412,19 +412,13 @@
     <rect x="772" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="772" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="786" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="786" y="158" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="786" y="172" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
+    <rect x="786" y="158" width="10" height="10" rx="2.5" fill="#0EA5A8" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="4.11s" repeatCount="indefinite" /></rect>
+    <rect x="786" y="172" width="10" height="10" rx="2.5" fill="#115E78" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="4.14s" repeatCount="indefinite" /></rect>
     <rect x="786" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="786" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="786" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="786" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
     <rect x="800" y="144" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="800" y="158" width="10" height="10" rx="2.5" fill="#0EA5A8" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="4.19s" repeatCount="indefinite" /></rect>
-    <rect x="800" y="172" width="10" height="10" rx="2.5" fill="#115E78" opacity="0.8"><animate attributeName="opacity" values="0.48;1;0.48" dur="5.2s" begin="4.22s" repeatCount="indefinite" /></rect>
-    <rect x="800" y="186" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="800" y="200" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="800" y="214" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
-    <rect x="800" y="228" width="10" height="10" rx="2.5" fill="#102031" opacity="0.55"></rect>
   </g>
 
   <g>
