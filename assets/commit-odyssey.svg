@@ -450,6 +450,7 @@
     <rect x="872" y="277" width="8" height="8" rx="2" transform="rotate(45 876 281)" fill="#13223A" opacity="0.32"></rect>
     <rect x="872" y="290" width="8" height="8" rx="2" transform="rotate(45 876 294)" fill="#13223A" opacity="0.32"></rect>
     <rect x="888" y="212" width="8" height="8" rx="2" transform="rotate(45 892 216)" fill="#13223A" opacity="0.32"></rect>
+    <rect x="888" y="225" width="8" height="8" rx="2" transform="rotate(45 892 229)" fill="#13223A" opacity="0.32"></rect>
     </g>
 
     <rect x="48" y="203" width="864" height="102" rx="15" fill="none" stroke="#93C5FD" stroke-opacity="0.1" />
